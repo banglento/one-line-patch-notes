@@ -1,0 +1,1 @@
+v2026.11.24: fixed a bug where Monday arrived before the weekend finished loading. Known issue: humans still won't boot without coffee.
